@@ -6,11 +6,11 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages mentioned in [a relative link](https://github.com/AbdelrhmanKhater/Lip-Reading-with-Inception/requirements.txt).
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages mentioned in [requirements file](https://github.com/AbdelrhmanKhater/Lip-Reading-with-Inception/blob/master/requirements.txt).
 
 ## Our Contribution
 
-[a relative link](https://github.com/AbdelrhmanKhater/Lip-Reading-with-Inception/GP_presentaion.pptx).
+[Presentation](https://github.com/AbdelrhmanKhater/Lip-Reading-with-Inception/blob/master/GP_presentation.pptx).
 
 ## Contributing
 

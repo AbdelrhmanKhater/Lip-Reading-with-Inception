@@ -1,6 +1,6 @@
-# Lip-Reading-with-InceptionNet
+## Lip-Reading-with-InceptionNet
 
-<h1> This is our Graduation-Project repo, dedicated to show our Contribution to the Latest work in Lip-Reading problem. </h1>
+<h2> This is our Graduation-Project repo, dedicated to show our Contribution to the Latest work in Lip-Reading problem. </h2> There's Another work related, but as Web-Application to interface the service (not live).
 
 ---
 
